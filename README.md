@@ -1,5 +1,5 @@
 # Angular Rich Text Editor Tab Integration
-An example demonstration of the EJ2 Angular Rich Text Editor with the Syncfusion Tab component integration
+An example demonstration of the EJ2 [Angular Rich Text Editor](https://www.syncfusion.com/angular-components/angular-rich-text-editor) with the Syncfusion Tab component integration
 
 ## Quick start
 
